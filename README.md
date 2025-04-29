@@ -22,7 +22,7 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-```
+``` 
 Developed By   :Preethi S
 Register Number:212223230157
 ```
