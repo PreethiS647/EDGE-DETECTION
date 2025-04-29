@@ -23,8 +23,8 @@ End the program.
 
 ## Program:
 ```
-Developed By   :Kalpanaa Babu T.M
-Register Number:212224230112
+Developed By   :Preethi S
+Register Number:212223230157
 ```
 
 ### 1. Smoothing Filters
